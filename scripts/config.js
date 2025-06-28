@@ -1,16 +1,8 @@
 // Landmark coordinate data
 const landmarks = {
-    'tower': {
-        latitude: 35.6586,
-        longitude: 139.7454
-    },
-    'tree': {
-        latitude: 35.7101,
-        longitude: 139.8107
-    },
-    'fuji': {
-        latitude: 35.3606,
-        longitude: 138.7274
+    'kaabah': {
+        latitude: 21.4225188,
+        longitude: 39.8262113
     }
 };
 
